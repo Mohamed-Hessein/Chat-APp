@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276725820319",
+    "project_id": "chatzapp-f15c1",
+    "storage_bucket": "chatzapp-f15c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276725820319:android:7f27a078361105d060ebaa",
+        "android_client_info": {
+          "package_name": "com.example.chatzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrdvAHHeZvL9coXtUvu35eyceA4PYdBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
